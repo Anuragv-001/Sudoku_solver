@@ -62,7 +62,7 @@ This Sudoku Solver application solves a given Sudoku puzzle using a backtracking
 
 2. Compile the Java files:
 ``` bash
-javac SudokuSolver.java
+    javac SudokuSolver.java
 ```
 3. Run the application:
 ``` bash
